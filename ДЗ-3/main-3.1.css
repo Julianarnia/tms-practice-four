@@ -1,0 +1,23 @@
+/*.box {
+    background: #86328C;
+    color: #fff;
+    padding: 1em;
+    border: 6px double #fff; 
+  }*/
+
+ /*Не получилось .box {
+      outline:2px solid #fff;
+      outline-offset: 20px;
+      background: #86328C;
+      color: #fff;
+      padding: 2em;
+  }*/
+
+  .box {
+      box-shadow: 0 0 0 2px #fff,
+      0 1px 0 9px #86328C;
+      background-color: #86328C;
+      padding: 1em;
+      color: #fff;
+
+  }
